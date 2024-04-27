@@ -7,11 +7,11 @@
 <hr>
 
 <a href="https://www.linkedin.com/in/muhdaliyan/" target="_blank">
-  <img alt="Stats" align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=muhdaliyan&show_icons=true&theme=dark"/>
+  <img alt="Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=muhdaliyan&show_icons=true&hide=contribs&theme=dark"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhdaliyan/" target="_blank">
-  <img alt="Langs" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhdaliyan&layout=compact&show_icons=true&theme=dark"/>
+  <img alt="Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhdaliyan&layout=compact&show_icons=true&theme=dark"/>
 </a>
 
 <br clear="left">
