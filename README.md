@@ -19,11 +19,11 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/muhdaliyan/" target="_blank">
-  <img alt="Stats" align="left" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhdaliyan&theme=radical&border=7F3FBF&background=0D1117"/>
+  <img alt="Stats" align="left" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhdaliyan&theme=radical&border=7F3FBF&background=0D1117"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhdaliyan/" target="_blank">
-  <img alt="Langs" align="right" height="170px" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=muhdaliyan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  <img alt="Langs" align="right" height="160px" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=muhdaliyan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
 </a>
 
 <br clear="left">
