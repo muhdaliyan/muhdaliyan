@@ -1,4 +1,4 @@
-<a href="https://komarev.com/ghpvc/?username=alsiam">
+<a href="https://wakatime.com/@muhdaliyan">
   <img align="right" src="https://komarev.com/ghpvc/?username=muhdaliyan&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
