@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/muhdaliyan/" target="_blank">
-  <img alt="Langs" align="right" height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhdaliyan&amp;layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  <img alt="Langs" align="right" height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=aliyan&amp;layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
 </a>
 
 <br clear="left">
