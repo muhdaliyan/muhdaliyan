@@ -19,8 +19,12 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/muhdaliyan/" target="_blank">
-  <img alt="Stats" align="left" height="160px" src="https://streak-stats.demolab.com/?user=muhdaliyan&theme=radical&border=7F3FBF&background=0D1117"/>
+  <img alt="Stats" align="left" height="160px" src="https://user-images.githubusercontent.com/20955511/183303809-eb8fea2f-d56b-4ad3-9f6d-ef55f8812ed2.png"/>
 </a>
+
+<!--
+https://user-images.githubusercontent.com/20955511/183303809-eb8fea2f-d56b-4ad3-9f6d-ef55f8812ed2.png
+-->
 
 <a href="https://www.linkedin.com/in/muhdaliyan/" target="_blank">
   <img alt="Langs" align="right" height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=aliyan&amp;layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
