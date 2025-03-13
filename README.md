@@ -19,7 +19,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/muhdaliyan/" target="_blank">
-  <img alt="Stats" align="left" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhdaliyan&theme=radical&border=7F3FBF&background=0D1117"/>
+  <img alt="Stats" align="left" height="160px" src="https://streak-stats.demolab.com/?user=muhdaliyan&theme=radical&border=7F3FBF&background=0D1117"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhdaliyan/" target="_blank">
