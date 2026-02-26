@@ -3,7 +3,7 @@
 
 AI Engineer | Builder | Open Source | SaaS  
 
-## 🛠 Tech Stack
+### Tech Stack
 
 ![AI](https://img.shields.io/badge/AI-FF6C37?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,7 +43,7 @@ Terminal native. Shipping > thinking. Sleep optional.
 
 ---
 
-## 🧠 Philosophy
+### Philosophy
 
 ```python
 build("with AI")
