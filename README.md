@@ -1,87 +1,53 @@
-<a href="https://wakatime.com/@muhdaliyan">
-  <img align="right" src="https://komarev.com/ghpvc/?username=muhdaliyan&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<a href="https://wakatime.com/@muhdaliyan"> <img align="right" src="https://komarev.com/ghpvc/?username=muhdaliyan&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" /> </a> [![wakatime](https://wakatime.com/badge/user/407809e7-b660-4bdb-a594-069de86293df.svg)](https://wakatime.com/@407809e7-b660-4bdb-a594-069de86293df)
+## Hi, I'm M Aliyan 👋
 
+AI Engineer | Builder | Open Source | SaaS  
 
-[![wakatime](https://wakatime.com/badge/user/407809e7-b660-4bdb-a594-069de86293df.svg)](https://wakatime.com/@407809e7-b660-4bdb-a594-069de86293df)
+## 🛠 Tech Stack
 
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/muhdaliyan">M Aliyan</a></b>
-        </samp>
-</h3>
+![AI](https://img.shields.io/badge/AI-FF6C37?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=terminal&logoColor=white)
+![Dev Tools](https://img.shields.io/badge/Dev_Tools-4A4A4A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Prompting](https://img.shields.io/badge/Prompting-FF6C37?style=for-the-badge&logo=openai&logoColor=white)
 
+Deep in build mode — shipping AI systems, developer tools, and SaaS products.  
+Terminal native. Shipping > thinking. Sleep optional.
 
-<hr>
+---
 
-### In the mood for a quick cool-down? Here's the lowdown in stats.
+### Open Source
 
-<br/>
+1. **[Zeer](https://github.com/muhdaliyan/zeer)** : Agentic AI CLI for OpenAI, Gemini, Claude & Ollama  
+2. More coming soon
 
-<a href="https://www.linkedin.com/in/muhdaliyan/" target="_blank">
-  <img alt="Stats" align="left" height="160px" src="https://user-images.githubusercontent.com/20955511/183303809-eb8fea2f-d56b-4ad3-9f6d-ef55f8812ed2.png"/>
-</a>
+---
 
-<!--
-https://user-images.githubusercontent.com/20955511/183303809-eb8fea2f-d56b-4ad3-9f6d-ef55f8812ed2.png
--->
+### Failed but Proud
 
-<a href="https://www.linkedin.com/in/muhdaliyan/" target="_blank">
-  <img alt="Langs" align="right" height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=aliyan&amp;layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-</a>
+1. **[Ouly](https://ouly.qubeknit.com/)** : Prompt → Website  
+   Built before Replit. Shut down because cloud bills > bank balance.  
+---
 
-<br clear="left">
-<!--
-<a href="https://www.linkedin.com/in/muhdaliyan/" target="_blank">
-  <img alt="Langs" align="right" height="150px" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=muhdaliyan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-</a>
---!>
+### Current Focus
 
-<br>
-<hr>
-<details>
+- Agentic AI systems  
+- CLI developer tools  
+- SaaS infra & automation  
+- AI + productivity workflows  
 
-<summary> 🌟 Caution Here ⤵️ </summary>
+---
 
-## About Me
+## 🧠 Philosophy
 
-An ML/AI Developer and proficient programmer specializing in modern machine learning and artificial intelligence applications.
-Formerly adept in diverse domains including Web Development, Game Development, Shopify Development, and Graphic Design.
-Leveraging a robust background in programming, I'm passionate about crafting innovative solutions that merge technology with creativity.
-
-[You wanna check my Linkdlin](https://www.linkedin.com/in/muhdaliyan/)
-
-- [ ] Ummm i can ...
-- [x] Python
-- [x] Django
-- [x] sklearn
-- [x] tensorflow
-- [x] etc
-<br>
-
-> Can decipher data like a detective decodes cryptic clues, except I don't need a magnifying glass, just a powerful computer and a cup of coffee. ☕
-
-
-```ruby
-   print("Strive for progress, not perfection.")
+```python
+build("with AI")
+break("from AI")
+learn("by looking")
 ```
-<a href="https://www.linkedin.com/in/muhdaliyan/">
-  <img alt="Stats" align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=muhdaliyan&show_icons=true&theme=transparent&rank_icon=github"/>
-</a>
-
-<br clear="left">
-
-
-### 💻Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<hr>
-
-## My Stats
-<br/>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhdaliyan&theme=radical)
-
-<br/>
-
 
