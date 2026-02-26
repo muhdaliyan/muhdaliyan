@@ -23,8 +23,8 @@ Terminal native. Shipping > thinking. Sleep optional.
 
 ### Open Source
 
-1. **[Zeer](https://github.com/muhdaliyan/zeer)** : Agentic AI CLI for OpenAI, Gemini, Claude & Ollama  
-2. More coming soon
+1. 🦒 **[Zeer](https://github.com/muhdaliyan/zeer)** : Agentic AI CLI for OpenAI, Gemini, Claude & Ollama  
+2. ♾️ More coming soon
 
 ---
 
